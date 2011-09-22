@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Countries Gem</title>
+  <link href="http://www.countriesgem.com/atom.xml" rel="self"/>
+  <link href="http://www.countriesgem.com/"/>
+  <updated>2011-09-22T10:55:42-06:00</updated>
+  <id>http://www.countriesgem.com/</id>
+  <author>
+    <name>Josh Robinson</name>
+    
+  </author>
+
+  
+</feed>
